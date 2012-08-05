@@ -1,0 +1,10 @@
+Satori is an elegant and clean color scheme for Vim, both for white or black
+background terminals. This color scheme has been developed under
+Terminall.app on Mac OS X but it also looks great in Linux too.
+
+Install details:
+
+Download satori.vim
+$ mkdir -p ~/.vim/colors/
+$ cp satori.vim ~/.vim/colors/
+Edit .vimrc and insert "colorscheme satori"
